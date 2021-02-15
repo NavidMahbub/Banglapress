@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/resourcelanguage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ResourceLanguage\\Providers\\ResourceLanguageServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ResourceLanguage\\": ""
+        }
+    }
+}

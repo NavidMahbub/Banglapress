@@ -1,0 +1,17 @@
+@media screen and (max-width: 800px){
+.header_ad_block.advertisement {
+    width: 100%;
+    padding: 12px 0;
+    background: #f0f0ed;
+    margin-bottom: 0;
+}
+.pagemaker{padding-top:8px}
+}
+
+ 
+@media only screen and (max-width: 800px){
+.palo_facebook_live{    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+}

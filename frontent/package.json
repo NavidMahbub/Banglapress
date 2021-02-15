@@ -1,0 +1,47 @@
+{
+  "name": "frontent",
+  "version": "1.0.0",
+  "description": "banglapress project",
+  "author": "Ariful Islam",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "dev2": "nuxt –hostname banglapress.org –port 49000",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "pm2 start npm –name frontent — start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/vue-fontawesome": "^0.1.7",
+    "@jeremyhamm/vue-slider": "^0.1.16",
+    "@nuxtjs/axios": "^5.6.0",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "image-map": "^1.1.7",
+    "jquery": "^3.4.1",
+    "mobile-device-detect": "^0.3.3",
+<<<<<<< HEAD
+    "nuxt": "^2.10.1",
+    "nuxt-fontawesome": "^0.4.0",
+=======
+    "nuxt": "^2.0.0",
+>>>>>>> 88d14831e2f691541446b1af66db463d37526e2b
+    "tb-skeleton": "^0.3.6",
+    "vue-content-loader": "^0.2.2",
+    "vue-content-loading": "^1.6.0",
+    "vue-jquery": "^1.0.6",
+    "vue-sidebar-menu": "^4.3.0"
+  },
+  "devDependencies": {
+<<<<<<< HEAD
+    "bootstrap-vue": "^2.0.4"
+=======
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap-vue": "^2.0.2"
+>>>>>>> 88d14831e2f691541446b1af66db463d37526e2b
+  }
+}

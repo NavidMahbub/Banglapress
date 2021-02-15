@@ -1,0 +1,14 @@
+{
+    "name": "ResourceLanguage",
+    "alias": "resourcelanguage",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ResourceLanguage\\Providers\\ResourceLanguageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nwidart/laravel-modules": "^6.2"
+    }
+}

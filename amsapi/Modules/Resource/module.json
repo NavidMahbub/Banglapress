@@ -1,0 +1,14 @@
+{
+    "name": "Resource",
+    "alias": "resource",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Resource\\Providers\\ResourceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
